@@ -1,0 +1,5 @@
+# Add project dependencies below
+readchar>=4.2.2
+
+# puppypi/keyboard_receiver_node.py also needs rospy and std_msgs.
+# They come with the ROS install on the robot, not from pip.
